@@ -3813,7 +3813,7 @@ var app = (function() {
       c() {
         (n = w("div")),
         (n.innerHTML =
-          '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a> but for Hypnosis Mic songs. Each song is randomly chosen from whatever is on Soundcloud (they get removed a lot).</p> \n\n<p class="mb-3">Made by <a href="https://twitter.com/zerolifex00">@zerolifex00</a>. All copyright goes to relevant parties.</p> \n\n\n\n <p class="mb-3">  </p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://glitch.com/">Glitch</a>. See the source code <a href="https://glitch.com/edit/#!/zayn-heardle">here</a>.'),
+          '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a> but for Hypnosis Mic songs. Each song is randomly chosen from whatever is on Soundcloud (they get removed a lot).</p> \n\n<p class="mb-3">Remix of ZAYN Heardle by <a href="https://twitter.com/eggtartemily">@eggtartemily</a>. All copyright goes to RUSH and other relevant parties. Remixed by <a href="https://twitter.com/zerolifex00">@zerolifex00</a>. All copyright goes to relevant parties.</p> \n\n\n\n <p class="mb-3">  </p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://glitch.com/">Glitch</a>. See the source code <a href="https://glitch.com/edit/#!/zayn-heardle">here</a>.'),
         M(n, "class", "text");
       },
       m(e, t) {
