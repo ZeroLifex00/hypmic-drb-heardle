@@ -787,7 +787,7 @@ var app = (function() {
             Q(a.$$.fragment),
             (l = x()),
             (u = w("h1")),
-            (u.textContent = "Hypnosis Mic Heardle"),
+            (u.textContent = "HypMic D.R.B Heardle"),
             (c = x()),
             (d = w("div")),
             Q(h.$$.fragment),
