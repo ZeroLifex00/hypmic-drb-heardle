@@ -4085,7 +4085,7 @@ var app = (function() {
       maxAttempts: 6,
       startDate: "2022-05-23",
     },
-    Jt = ["Rio's cooking is better than your guesses!", "Correct!", "Correct!", "Correct!", "Correct!", "Correct!", "Correct!!!"];
+    Jt = ["Don't worry, Rio's cooking is still worse than your guesses!", "Correct!", "Correct!", "Correct!", "Correct!", "Correct!", "Correct!!!"];
 
   function Kt(t) {
     let n, r;
